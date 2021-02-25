@@ -1,0 +1,22 @@
+20
+1 0 0 Udaipur
+2 2 1 Chittorgarh
+3 1 1 Rajsamand
+4 2 2 Bhilwara
+5 6 0 Jhalawar
+6 7 1 Baran
+7 5 1 Kota
+8 5 2 Bundi
+9 5 4 Tonk
+10 3 5 Ajmer
+11 5 5 Jaipur
+12 6 5 Dausa
+13 10 5 Dhaulpur
+14 9 6 Bharatpur
+15 4 7 Sikar
+16 5 6 Ringas
+17 7 4 Sawai Madhopur
+18 8 5 Karauli
+19 7 7 Alwar
+20 3 9 Churu
+EOF
